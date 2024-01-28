@@ -6,7 +6,7 @@
     <title>Oluwafadekemi Odu-onikosi - Portfolio</title>
     <style>
         body {
-            font-family: 'Bangla MT', 'Arial', sans-serif;
+            font-family: 'Bangla MT', Arial, sans-serif;
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -15,6 +15,7 @@
         section {
             height: 100vh;
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             text-align: center;
@@ -32,6 +33,7 @@
             background-color: #d0d0d0;
         }
     </style>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bangla+MT:wght@400&display=swap">
 </head>
 <body>
 
